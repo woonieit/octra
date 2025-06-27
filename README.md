@@ -5,6 +5,13 @@ https://discord.gg/octra
 
 ---
 
+## Requirements
+Linux Ubuntu OS
+* VPS: You can use a linux VPS to follow the guide
+* Windows: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows)
+
+---
+
 ## Install dependecies
 Install & Update Packages:
 ```
