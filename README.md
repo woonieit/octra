@@ -11,6 +11,7 @@ https://discord.gg/octra
 Linux Ubuntu OS
 * **VPS**: You can use a linux VPS to follow the guide
 * **Windows**: Install Linux Ubuntu using WSL by following this [guide](https://github.com/0xmoei/Install-Linux-on-Windows)
+* **Codespace**: If you don't have VPS or Windows WSL, you can use [Github Codespace](https://github.com/codespaces), create a blank template and run your codes.
 
 ---
 
