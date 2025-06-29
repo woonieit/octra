@@ -128,7 +128,7 @@ python3 cli.py
 curl -o cli.py https://raw.githubusercontent.com/0xmoei/octra/refs/heads/main/cli.py
 ```
 
-* Always share your feedback about the week's task in discord
+> Always share your feedback about the week's task in discord
 
 ---
 
