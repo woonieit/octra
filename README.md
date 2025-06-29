@@ -1,5 +1,7 @@
 # Octra Public Testnet
 
+![testnet](https://github.com/user-attachments/assets/aa4f05f1-0f0a-41d0-8ed8-df215b340c46)
+
 ## Join Discord
 https://discord.gg/octra
 
