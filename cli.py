@@ -718,7 +718,7 @@ class WalletClient:
             self.move_cursor(header_x, 2, header_text, self.theme.header + Colors.BOLD)
         
         # Version info
-        version = "v0.1.0 Enhanced"
+        version = "v0.1.0"
         version_x = self.center_text(version)
         self.move_cursor(version_x, 3, version, self.theme.text_dim)
         
