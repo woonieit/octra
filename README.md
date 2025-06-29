@@ -116,6 +116,10 @@ python3 -m venv venv
 source venv/bin/activate
 python3 cli.py
 ```
+* This should open a Testnet UI
+
+![image](https://github.com/user-attachments/assets/0ba1d536-4048-4899-a977-4517b2e522cd)
+
 
 **4. Send transactions**
 * Send transactions to my address: `octBvPDeFCaAZtfr3SBr7Jn6nnWnUuCfAZfgCmaqswV8YR5`
