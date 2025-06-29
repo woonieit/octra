@@ -83,12 +83,12 @@ yarn -v
 ## Task 1: Send transactions
 
 **1. Install Python**
-```
+```bash
 sudo apt install python3 python3-pip python3-venv python3-dev -y
 ```
 
 **2. Install CLI**
-```console
+```bash
 git clone https://github.com/octra-labs/octra_pre_client.git
 cd octra_pre_client
 
@@ -100,7 +100,7 @@ cp wallet.json.example wallet.json
 ```
 
 **2. Add wallet to CLI**
-```
+```bash
 nano wallet.json
 ```
 * Replace following values:
@@ -109,7 +109,7 @@ nano wallet.json
 
 
 **3. Start CLI**
-```
+```bash
 python3 -m venv venv
 source venv/bin/activate
 python3 cli.py
@@ -118,6 +118,13 @@ python3 cli.py
 **4. Send transactions**
 * Send transactions to my address: `octBvPDeFCaAZtfr3SBr7Jn6nnWnUuCfAZfgCmaqswV8YR5`
 * Use [Octra Explorer](https://octrascan.io/) to find more octra addresses
+
+
+**5. Use Alternative Script**
+* If you have issue with official script, I just refined the script with optimizated UI, you can replace the current one with mine by executing this command:
+```bash
+curl -o cli.py https://raw.githubusercontent.com/0xmoei/octra/refs/heads/main/cli.py
+```
 
 
 ---
